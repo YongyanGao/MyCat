@@ -3,7 +3,7 @@ Type: Package
 Title: some functions to introduce my cat
 Version: 0.1.0
 Author: Yongyan Gao <Y.Gao@campus.lmu.de>
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: The package maintainer <Y.Gao@campus.lmu.de>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: MIT

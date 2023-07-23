@@ -2,13 +2,17 @@
 % Please edit documentation in R/get_cat_name.R
 \name{get_cat_name}
 \alias{get_cat_name}
-\title{Get the name of My cat, Custard}
+\title{Get the name of your cat, Custurd.}
 \usage{
 get_cat_name()
 }
 \value{
-A character string containing the name "Custard".
+A character string containing the name "Custurd".
 }
 \description{
-This function returns the name of My cat, Custard.
+This function returns the name of your cat, Custurd.
+}
+\examples{
+get_cat_name()
+
 }
